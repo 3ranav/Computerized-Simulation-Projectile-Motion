@@ -4,43 +4,43 @@ This Python program simulates projectile motion with air resistance, allowing us
 
 Features
 
-Realistic Physics: Simulates projectile motion considering gravity and air resistance with adjustable drag coefficient.
+- Realistic Physics: Simulates projectile motion considering gravity and air resistance with adjustable drag coefficient.
 
-User-Friendly GUI:
+- User-Friendly GUI:
 
-Accepts user inputs such as initial velocity, launch angle, projectile mass, and drag coefficient via pop-up dialogs.
+- Accepts user inputs such as initial velocity, launch angle, projectile mass, and drag coefficient via pop-up dialogs.
 
-Offers an option to save the animation as a GIF.
+- Offers an option to save the animation as a GIF.
 
 Dynamic Animation:
 
-Visualizes the projectile's trajectory.
+- Visualizes the projectile's trajectory.
 
-Highlights key points such as the peak height and landing position.
+- Highlights key points such as the peak height and landing position.
 
-Interactive functionality with keyboard controls.
+- Interactive functionality with keyboard controls.
 
 Keyboard Controls During Animation:
 
-p: Pause/Play the animation.
+- p: Pause/Play the animation.
 
-Requirements
+Requirements:
 
-Python 3.x
+- Python 3.x
 
-Libraries:
+- Libraries:
 
-numpy
+- numpy
 
-matplotlib
+- matplotlib
 
-tkinter
+- tkinter
 
 Installation
 
 Clone the repository:
 
-git clone <repository-url>
+git clone
 
 Navigate to the project directory:
 
